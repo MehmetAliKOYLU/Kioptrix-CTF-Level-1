@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 5b e2 e0 88 28 83 7b-9d 78 60 80 6a de 44 b7</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">Kioptix Level 1.vmx</vmxPathName></VM></Foundry>
